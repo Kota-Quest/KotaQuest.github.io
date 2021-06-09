@@ -1,2 +1,1 @@
-# KotaQuest.github.io
-Bangkit 2021 Capstone Project Website
+# Machine Learning Model for Kota Quest
